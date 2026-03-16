@@ -1,1 +1,1 @@
-[![Ivy](./Ivy.svg)](https://ivy.direct/hi)
+[![Ivy Portfolio](./ivyBanner.svg)](https://ivy.direct)
